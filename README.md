@@ -6,7 +6,8 @@ Uses [shields.io](https://shields.io/) badge service.
 
 ## Badges
 
-[![User Devnet Release](https://img.shields.io/endpoint.svg?color=brightgreen&style=flat&logo=GitHub&url=https://raw.githubusercontent.com/filecoin-project/go-filecoin-badges/master/user-devnet.json)](https://github.com/filecoin-project/go-filecoin/releases/latest)
+[[![User Devnet Release](https://img.shields.io/endpoint.svg?color=brightgreen&style=flat&logo=GitHub&url=https://raw.githubusercontent.com/filecoin-project/go-filecoin-badges/master/user-devnet.json)](https://github.com/filecoin-project/go-filecoin/releases/latest)
+![Test Devnet Release](https://img.shields.io/endpoint.svg?color=brightgreen&style=flat&logo=GitHub&url=https://raw.githubusercontent.com/filecoin-project/go-filecoin-badges/master/test-devnet.json)](https://github.com/filecoin-project/go-filecoin/releases)
 [![Nightly Devnet Release](https://img.shields.io/endpoint.svg?color=blue&style=flat&logo=GitHub&url=https://raw.githubusercontent.com/filecoin-project/go-filecoin-badges/master/nightly-devnet.json)](https://github.com/filecoin-project/go-filecoin/releases)
 
 
