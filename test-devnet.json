@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "Test Devnet Release",
-  "message": "test-devnet-0.0.0",
+  "message": "test-devnet-0.2.0",
   "cacheSeconds": 300
 }
